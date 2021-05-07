@@ -1,0 +1,44 @@
+2021-05-07 07:34:01,021 INFO c.BankInteractive [main] Application started
+2021-05-07 07:34:01,026 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 07:34:01,026 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 07:34:11,976 DEBUG c.BankInteractive [main] logging the user in and making sure they have been authenticated
+2021-05-07 07:34:31,119 DEBUG b.BankManager [main] logging in user
+2021-05-07 07:34:31,129 DEBUG d.BankDAO [main] logging in
+2021-05-07 07:34:31,155 DEBUG c.BankInteractive [main] giving choices if logged in
+2021-05-07 07:34:31,155 INFO c.BankInteractive [main] showing the user menu
+2021-05-07 07:34:34,429 DEBUG c.BankInteractive [main] opening an account
+2021-05-07 07:34:43,050 DEBUG b.BankManager [main] making sure number passed in is not less than 0
+2021-05-07 07:34:43,054 DEBUG b.BankManager [main] opening account
+2021-05-07 07:34:43,054 DEBUG d.BankDAO [main] finding customer record for minnie
+2021-05-07 07:34:43,058 DEBUG d.BankDAO [main] making sure user is a customer before they can open account
+2021-05-07 07:34:43,058 DEBUG d.BankDAO [main] opening account
+2021-05-07 07:34:43,062 INFO c.BankInteractive [main] showing the user menu
+2021-05-07 07:50:55,227 INFO c.BankInteractive [main] Application started
+2021-05-07 07:50:55,230 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 07:50:55,231 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 07:51:05,017 DEBUG c.BankInteractive [main] logging the user in and making sure they have been authenticated
+2021-05-07 07:51:10,905 DEBUG b.BankManager [main] logging in user
+2021-05-07 07:51:10,928 DEBUG d.BankDAO [main] logging in
+2021-05-07 07:51:10,947 DEBUG c.BankInteractive [main] giving choices if logged in
+2021-05-07 07:51:10,947 INFO c.BankInteractive [main] showing the user menu
+2021-05-07 07:51:16,215 DEBUG c.BankInteractive [main] opening an account
+2021-05-07 07:51:26,756 DEBUG b.BankManager [main] making sure number passed in is not less than 0
+2021-05-07 07:51:26,756 INFO c.BankInteractive [main] showing the user menu
+2021-05-07 09:24:29,070 INFO c.BankInteractive [main] Application started
+2021-05-07 09:24:29,074 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 09:24:29,075 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 09:24:34,531 DEBUG c.BankInteractive [main] logging the user in and making sure they have been authenticated
+2021-05-07 09:24:49,753 DEBUG b.BankManager [main] logging in user
+2021-05-07 09:24:49,774 DEBUG d.BankDAO [main] logging in
+2021-05-07 09:24:49,783 DEBUG c.BankInteractive [main] giving choices if logged in
+2021-05-07 09:24:49,783 INFO c.BankInteractive [main] showing the user menu
+2021-05-07 09:26:57,147 INFO c.BankInteractive [main] Application started
+2021-05-07 09:26:57,152 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 09:26:57,152 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 09:26:57,598 INFO c.BankInteractive [main] Application started
+2021-05-07 09:26:57,603 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 09:26:57,603 DEBUG c.BankInteractive [main] trying to log user in
+2021-05-07 09:27:01,471 DEBUG c.BankInteractive [main] logging the user in and making sure they have been authenticated
+2021-05-07 09:27:15,229 DEBUG b.BankManager [main] logging in user
+2021-05-07 09:27:15,258 DEBUG d.BankDAO [main] logging in
+2021-05-07 09:27:15,277 DEBUG c.BankInteractive [main] giving choices if logged in
